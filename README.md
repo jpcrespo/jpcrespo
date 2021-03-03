@@ -15,7 +15,7 @@
 
 Juan Crespo, programo por gusto.
 
-<img align="right" alt="GIF" src="./images/200.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="./images/200.gif" width="300" height="320" />
 
 ### 👨‍💻 Me encuentro en los siguientes proyectos:
 - Trabajando en ***Bot-CryptoQuant Software***
@@ -34,6 +34,6 @@ Juan Crespo, programo por gusto.
 <code><img alt="Open  CV" height="30px" src="./images/opencv.png"/></code>
 <code><img alt="Pytho" height="30px" src="./images/python.png"/></code>
 <code><img alt="Raspberry Pi" height="30px" src="./images/rpi.png"/></code>
-<code><img alt="Telegram Bots" height="30px" src="./images/telbot.png"/></code>
+<code><img alt="Telegram Bots" height="30px" src="./images/telebot.png"/></code>
 <code><img alt="Linux Systems" height="30px" src="./images/unix.png"/></code>
 
