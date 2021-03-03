@@ -29,11 +29,14 @@ Juan Crespo, programo por gusto.
 <code><img alt="Arduino" height="30px" src="./images/arduino.png"/></code>
 <code><img alt="C pure" height="30px" src="./images/c.png"/></code>
 <code><img alt="Latex" height="30px" src="./images/latex.png"/></code>
+<br />
 <code><img alt="Matlab" height="30px" src="./images/matlab.png"/></code>
 <code><img alt="Numpy" height="30px" src="./images/numpy.png"/></code>
 <code><img alt="Open  CV" height="30px" src="./images/opencv.png"/></code>
+<br />
 <code><img alt="Pytho" height="30px" src="./images/python.png"/></code>
 <code><img alt="Raspberry Pi" height="30px" src="./images/rpi.png"/></code>
 <code><img alt="Telegram Bots" height="30px" src="./images/telebot.png"/></code>
 <code><img alt="Linux Systems" height="30px" src="./images/unix.png"/></code>
 
+<br /><br />
