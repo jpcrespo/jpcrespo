@@ -15,7 +15,7 @@
 
 Juan Crespo, programo por gusto.
 
-<img align="right" alt="GIF" src="./images/jpy.gif" width="300" height="200" />
+<img align="right" alt="GIF" src="./images/jpy.gif" width="400" height="300" />
 
 ### 👨‍💻 Me encuentro en los siguientes proyectos:
 - Trabajando en ***Bot-CryptoQuant Software***
