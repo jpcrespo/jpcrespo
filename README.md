@@ -1,12 +1,12 @@
 ## Hola 👋, soy [JuanPy](https://medium.com/@RadIONTech)
 
 <a href="https://discord.gg/jtYHaQ8SvF">
-  <img align="left" alt="vico:dev Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 
 
 <a href="https://twitter.com/RadIONtech">
-  <img align="left" alt="Victor Aguilar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
 
@@ -15,7 +15,7 @@
 
 Juan Crespo, programo por gusto.
 
-<img align="right" alt="GIF" src="./images/200.gif" width="300" height="200" />
+<img align="right" alt="GIF" src="./images/jpy.gif" width="300" height="200" />
 
 ### 👨‍💻 Me encuentro en los siguientes proyectos:
 - Trabajando en ***Bot-CryptoQuant Software***
