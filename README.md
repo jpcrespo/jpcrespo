@@ -47,6 +47,7 @@ Juan Crespo, programo por gusto.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown              11 mins         █████████████░░░░░░░░░░░░   52.05 % 
+YAML                  10 mins         ███████████▒░░░░░░░░░░░░░   45.16 % 
 ```
 <!--END_SECTION:waka-->
