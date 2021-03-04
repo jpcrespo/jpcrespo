@@ -1,0 +1,14 @@
+name: Uptdate README stats
+
+on:
+  workflow_dispatch:
+    schedule:
+      - cron: '*/2 * * * *'
+jobs:  
+ update-readme:
+    name: Update README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
