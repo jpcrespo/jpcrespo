@@ -42,4 +42,9 @@ Juan Crespo, programo por gusto.
 <br /><br />
 
 
+### STATS
 
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
