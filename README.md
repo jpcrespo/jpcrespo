@@ -47,7 +47,6 @@ Juan Crespo, programo por gusto.
 
 <!--START_SECTION:waka-->
 ```text
-Markdown              11 mins         █████████████░░░░░░░░░░░░   52.05 % 
-YAML                  10 mins         ███████████▒░░░░░░░░░░░░░   45.16 % 
+TeX      1 hr 37 mins    █████████████████████████   99.46 % 
 ```
 <!--END_SECTION:waka-->
