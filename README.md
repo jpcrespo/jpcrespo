@@ -47,6 +47,8 @@ Juan Crespo, programo por gusto.
 
 <!--START_SECTION:waka-->
 ```text
-TeX      2 hrs 32 mins   █████████████████████████   99.51 % 
+Other    4 hrs 23 mins   █████████████▓░░░░░░░░░░░   54.92 % 
+TeX      3 hrs 30 mins   ███████████░░░░░░░░░░░░░░   43.98 % 
+Python   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 ```
 <!--END_SECTION:waka-->
