@@ -47,10 +47,10 @@ Juan Crespo, programo por gusto.
 
 <!--START_SECTION:waka-->
 ```text
-Python       36 hrs          ███████████████████▒░░░░░   77.87 % 
-Other        3 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Git Config   2 hrs 26 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-CSV          2 hrs 24 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-JSON         1 hr 27 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Python     2 hrs 21 mins   ███████████████▓░░░░░░░░░   63.12 % 
+Markdown   37 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Other      28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+CSV        13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+JSON       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 ```
 <!--END_SECTION:waka-->
