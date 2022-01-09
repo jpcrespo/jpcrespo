@@ -1,4 +1,5 @@
-name:  Update stats Waka
+name: Uptdate README stats
+
 on:
   workflow_dispatch:
     schedule:
@@ -12,3 +13,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
