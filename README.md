@@ -47,6 +47,7 @@ Juan Crespo, programo por gusto.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JSON     5 mins          █████████████████▒░░░░░░░   69.02 % 
+Other    2 mins          ███████▓░░░░░░░░░░░░░░░░░   30.98 % 
 ```
 <!--END_SECTION:waka-->
