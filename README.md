@@ -47,10 +47,6 @@ Juan Crespo, programo por gusto.
 
 <!--START_SECTION:waka-->
 ```text
-Python     2 hrs 21 mins   ███████████████▓░░░░░░░░░   63.12 % 
-Markdown   37 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Other      28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-CSV        13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-JSON       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
