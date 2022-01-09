@@ -49,7 +49,7 @@ Juan Crespo, programo por gusto.
 ```text
 Week: 02 January, 2022 - 08 January, 2022
 
-JSON     5 mins          █████████████████▒░░░░░░░   69.02 % 
-Other    2 mins          ███████▓░░░░░░░░░░░░░░░░░   30.98 % 
+JSON     5 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀   69.02 % 
+Other    2 mins          ⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.98 % 
 ```
 <!--END_SECTION:waka-->
