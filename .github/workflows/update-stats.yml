@@ -3,10 +3,10 @@ name: Uptdate README stats
 on:
   workflow_dispatch:
     schedule:
-      - cron: '* */2 * * *'
+      - cron: '*/5 * * * *'
 jobs:  
  update-readme:
-    name: Update README
+    name: Update stats Waka
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
