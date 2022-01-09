@@ -1,5 +1,4 @@
-name: Uptdate README stats
-
+name:  Update stats Waka
 on:
   workflow_dispatch:
     schedule:
