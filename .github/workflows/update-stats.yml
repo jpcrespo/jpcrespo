@@ -3,7 +3,7 @@ name: Uptdate README stats
 on:
   workflow_dispatch:
     schedule:
-      - cron: '* */24 * * *'
+      - cron: '* */2 * * *'
 jobs:  
  update-readme:
     name: Update stats Waka
@@ -12,5 +12,4 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
