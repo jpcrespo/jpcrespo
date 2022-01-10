@@ -24,6 +24,23 @@ Mi nombre es Juan P Crespo, soy Ingeniero Electrónico apasionado por temas rela
 - Finanzas Quant 📈📉
 - Blockchain and smart contracts 💻.
 - Análisis ₿ Bitcoin data
+- Análisis del Sonido y procesamiento de datos
+- Robots, automatizaciones y sistemas domóticos
+
+## Experiencia en el manejo.
+
+- Linux
+- Arduino
+- Raspberry
+- OpenCV
+- Latex
+- Pandas, Numpy, Numexpr
+- Geant4 
+- Bots Twitter, Telegram
+- C/Matlab
+- Data Science
+- Machine Learning
+- Digital Brain and knowledge management 
 
 ## Artículos en revistas de interés científico.
 
@@ -49,12 +66,15 @@ Implementamos infraestructura que unen regiones geográficas mediante redes de d
 
   https://sight.ieee.org/
 
+
+## Premios 🏅
+
+- https://2014.spaceappschallenge.org/location/la-paz/
+
+
+
 ## Estadísticas de trabajo.
 
-
 <!--START_SECTION:waka-->
-```text
-JSON     5 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀   69.02 % 
-Other    2 mins          ⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.98 % 
-```
+
 <!--END_SECTION:waka-->
