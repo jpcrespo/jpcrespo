@@ -53,5 +53,8 @@ Implementamos infraestructura que unen regiones geográficas mediante redes de d
 
 
 <!--START_SECTION:waka-->
-
+```text
+JSON     5 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀   69.02 % 
+Other    2 mins          ⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.98 % 
+```
 <!--END_SECTION:waka-->
