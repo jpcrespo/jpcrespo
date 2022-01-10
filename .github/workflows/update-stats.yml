@@ -2,11 +2,10 @@ name: waka README
 
 on:
   workflow_dispatch:
-    schedule:
-      - cron: '*/10 * * * *'
+  schedule:
+    - cron: '*/10 * * * *'
 jobs:  
  update-readme:
-
     name: Update stats 
     runs-on: ubuntu-latest
     steps:
