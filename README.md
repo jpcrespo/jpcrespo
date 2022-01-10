@@ -51,7 +51,7 @@ Mi nombre es Juan P Crespo, soy Ingeniero Electrónico apasionado por temas rela
 - Fundador de la Olimpiada Boliviana científica Estudiantil de Robótica
 http://olimpiada.minedu.gob.bo/public/files/material_de_apoyo/cartilla_robotica_6ta.pdf
 
-- Autor del libro de introducción a la Robótica estudiantil
+- Co-Autor del libro "Introducción a la Robótica estudiantil"
 https://www.studocu.com/bo/document/universidad-autonoma-gabriel-rene-moreno/medicina-legal/robotica-guia-inicial/4983318
 
 - Miembro del proyecto CAMACHO-IEEE sponsoreado por IEEE-HAC.
