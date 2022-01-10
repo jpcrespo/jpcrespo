@@ -1,7 +1,9 @@
 
 # Hola! 👋 Bienvenido a mi perfil de Github.
 
-![My card](./images/card.png "Mi tarjeta de presentación")
+<img align="center" alt="GIF" src="./images/card.png" width="500" height="300" />
+
+
 
 ## Sobre Mí 📖
 
@@ -47,4 +49,6 @@ Implementamos infraestructura que unen regiones geográficas mediante redes de d
 
   https://sight.ieee.org/
 
-
+## Estadísticas de trabajo.
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
