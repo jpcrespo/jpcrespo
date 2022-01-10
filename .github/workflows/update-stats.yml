@@ -6,7 +6,7 @@ on:
       - cron: '*/15 * * * *'
 jobs:  
  update-readme:
-    name: Update stats Waka
+    name: Update stats stats
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
