@@ -11,7 +11,7 @@
 
 Mi nombre es Juan P Crespo, soy Ingeniero Electrónico apasionado por temas relacionados con ciencia y tecnológia. Tengo estudios en:
 
-- Física pura
+- Física en ciencias Puras
 - Aplicación de radiación en medicina
 - Procesamiento digital de imágenes
 
@@ -58,7 +58,7 @@ Mi nombre es Juan P Crespo, soy Ingeniero Electrónico apasionado por temas rela
 
     https://medium.com/@RadIONTech/la-luz-ultravioleta-contra-el-coronavirus-parte-2-una-punto-d%C3%A9bil-brutal-3813a87d0b5e
 
-    
+
 
 
 ## Actividades profesionales
