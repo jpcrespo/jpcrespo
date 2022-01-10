@@ -1,15 +1,17 @@
-name: Uptdate README stats
-
+name: Latest blog post workflow
 on:
-  workflow_dispatch:
-    schedule:
-      - cron: '* */2 * * *'
-jobs:  
- update-readme:
-    name: Update stats Waka
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          feed_list: "medium.com/feed/@cardanobolivia"
