@@ -1,7 +1,7 @@
 
 # Hola! 👋 Bienvenido a mi perfil de Github.
 
-<img align="center" alt="GIF" src="./images/card.png" width="500" height="300" />
+<img align="center" alt="GIF" src="./images/card.png" width="600" height="300" />
 
 
 
@@ -50,5 +50,7 @@ Implementamos infraestructura que unen regiones geográficas mediante redes de d
   https://sight.ieee.org/
 
 ## Estadísticas de trabajo.
+
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
