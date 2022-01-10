@@ -41,6 +41,7 @@ Mi nombre es Juan P Crespo, soy Ingeniero Electrónico apasionado por temas rela
 - Data Science
 - Machine Learning
 - Digital Brain and knowledge management 
+- Matplotlib, gnuplot. 
 
 ## Artículos de interés y opinión.
 
