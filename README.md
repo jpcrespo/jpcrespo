@@ -12,7 +12,7 @@
 Mi nombre es Juan P Crespo, soy Ingeniero Electrónico apasionado por temas relacionados con ciencia y tecnológia. Tengo estudios en:
 
 - Física en ciencias Puras
-- Aplicación de radiación en medicina
+- Aplicaciín de radiación ionizante en medicina
 - Procesamiento digital de imágenes
 
 
