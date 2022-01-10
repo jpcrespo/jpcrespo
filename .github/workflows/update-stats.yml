@@ -3,7 +3,7 @@ name: Uptdate README stats
 on:
   workflow_dispatch:
     schedule:
-      - cron: '* */2 * * *'
+      - cron: '*/10 * * * *'
 jobs:  
  update-readme:
     name: Update README stats
