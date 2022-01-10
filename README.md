@@ -42,9 +42,24 @@ Mi nombre es Juan P Crespo, soy Ingeniero Electrónico apasionado por temas rela
 - Machine Learning
 - Digital Brain and knowledge management 
 
-## Artículos en revistas de interés científico.
+## Artículos de interés y opinión.
 
-- http://www.scielo.org.bo/pdf/rbf/v36n36/v36n36_a05.pdf
+- ESTUDIO DEL METODO MONTE CARLO EN SIMULACIONES PARA LA ESTIMACION DEL VALOR DE π
+    
+     http://www.scielo.org.bo/pdf/rbf/v36n36/v36n36_a05.pdf
+
+-  Monte Carlo, Python y Pi
+
+   https://medium.com/@RadIONTech/monte-carlo-python-y-pi-4de90954aa3b
+
+- Un breve análisis de la luz UV y el covid.
+
+    https://medium.com/@RadIONTech/la-luz-ultravioleta-contra-el-coronavirus-parte-1-encontrando-un-arma-efectiva-a52b994e6ed0
+
+    https://medium.com/@RadIONTech/la-luz-ultravioleta-contra-el-coronavirus-parte-2-una-punto-d%C3%A9bil-brutal-3813a87d0b5e
+
+    
+
 
 ## Actividades profesionales
 
