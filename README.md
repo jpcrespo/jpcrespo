@@ -93,8 +93,8 @@ Implementamos infraestructura que unen regiones geográficas mediante redes de d
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 January, 2022 - 19 January, 2022
+Week: 14 January, 2022 - 20 January, 2022
 
-Other   25 hrs 25 mins  █████████████████████████   99.99 % 
+Other   20 hrs 44 mins  █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
