@@ -93,10 +93,9 @@ Implementamos infraestructura que unen regiones geográficas mediante redes de d
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 January, 2022 - 29 January, 2022
+Week: 24 January, 2022 - 30 January, 2022
 
-Markdown   1 hr 2 mins     ██████████████████▓░░░░░░   74.91 % 
-Python     18 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.36 % 
-Other      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Other      2 hrs 26 mins   ████████████████████████▒   97.25 % 
+Python     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 <!--END_SECTION:waka-->
