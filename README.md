@@ -94,11 +94,11 @@ Implementamos infraestructura que unen regiones geográficas mediante redes de d
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 April 2022 - To: 22 April 2022
+From: 16 April 2022 - To: 23 April 2022
 
-TeX            1 hr 59 mins    ████████████████████████▓   98.61 %
-Python         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-OpenEdge ABL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+TeX            1 hr 59 mins    █████████████████████░░░░   84.61 %
+Python         21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
+OpenEdge ABL   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 Other          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
