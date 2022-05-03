@@ -94,7 +94,7 @@ Implementamos infraestructura que unen regiones geográficas mediante redes de d
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 April 2022 - To: 01 May 2022
+From: 25 April 2022 - To: 02 May 2022
 
 CSS          1 hr 11 mins    ███████▓░░░░░░░░░░░░░░░░░   30.20 %
 Python       1 hr 9 mins     ███████▒░░░░░░░░░░░░░░░░░   29.10 %
