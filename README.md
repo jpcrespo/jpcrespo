@@ -94,12 +94,12 @@ Implementamos infraestructura que unen regiones geográficas mediante redes de d
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 July 2022 - To: 23 July 2022
+From: 17 July 2022 - To: 24 July 2022
 
-Python       18 hrs 47 mins  ███████████████████████▓░   95.11 %
-Markdown     42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-Git Config   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python       19 hrs 3 mins   ███████████████████████▒░   93.83 %
+Markdown     42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Text         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Git Config   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
