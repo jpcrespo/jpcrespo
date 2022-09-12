@@ -94,7 +94,7 @@ Implementamos infraestructura que unen regiones geográficas mediante redes de d
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 September 2022 - To: 09 September 2022
+From: 03 September 2022 - To: 10 September 2022
 
 TeX      2 hrs 39 mins   ████████████████████████▒   97.91 %
 Python   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
