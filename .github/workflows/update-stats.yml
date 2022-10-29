@@ -3,9 +3,10 @@ name: waka README
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '40 11 */1 * *'
+
 jobs:  
- update-readme:
+  update-readme:
     name: Update stats 
     runs-on: ubuntu-latest
     steps:
@@ -14,8 +15,3 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TIME: true
           SHOW_TITLE: true
-       
-         
-
-
-          
