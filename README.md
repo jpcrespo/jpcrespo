@@ -94,10 +94,7 @@ Implementamos infraestructura que unen regiones geográficas mediante redes de d
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 December 2022 - To: 28 December 2022
-
-Python   0 secs          ████████████████████░░░░░   79.95 %
-C++      0 secs          █████░░░░░░░░░░░░░░░░░░░░   20.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
