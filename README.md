@@ -94,11 +94,10 @@ Implementamos infraestructura que unen regiones geográficas mediante redes de d
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 September 2023 - To: 28 September 2023
+From: 30 September 2023 - To: 07 October 2023
 
-Python         1 hr 7 mins     ████████████████████████▓   98.20 %
-Bash           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-OpenEdge ABL   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Python       1 hr 2 mins     ████████████████████▓░░░░   82.00 %
+Git Config   13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
 ```
 
 <!--END_SECTION:waka-->
