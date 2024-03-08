@@ -94,10 +94,11 @@ Implementamos infraestructura que unen regiones geográficas mediante redes de d
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 February 2024 - To: 28 February 2024
+From: 29 February 2024 - To: 07 March 2024
 
-Python   19 hrs 3 mins   █████████████████████████   99.98 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python   13 hrs 47 mins  █████████████████████▒░░░   85.55 %
+TeX      1 hr 45 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
+Text     33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
 ```
 
 <!--END_SECTION:waka-->
