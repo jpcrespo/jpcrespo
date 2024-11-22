@@ -94,7 +94,7 @@ Implementamos infraestructura que unen regiones geográficas mediante redes de d
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2024 - To: 14 November 2024
+From: 14 November 2024 - To: 21 November 2024
 
 No activity tracked
 ```
